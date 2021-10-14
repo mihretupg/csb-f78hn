@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mihretupg.github.io/csb-f78hn/static/css/main.2c334147.chunk.css",
+    "main.js": "https://mihretupg.github.io/csb-f78hn/static/js/main.74d40e0b.chunk.js",
+    "main.js.map": "https://mihretupg.github.io/csb-f78hn/static/js/main.74d40e0b.chunk.js.map",
+    "runtime-main.js": "https://mihretupg.github.io/csb-f78hn/static/js/runtime-main.7c8d7e8d.js",
+    "runtime-main.js.map": "https://mihretupg.github.io/csb-f78hn/static/js/runtime-main.7c8d7e8d.js.map",
+    "static/js/2.b880b151.chunk.js": "https://mihretupg.github.io/csb-f78hn/static/js/2.b880b151.chunk.js",
+    "static/js/2.b880b151.chunk.js.map": "https://mihretupg.github.io/csb-f78hn/static/js/2.b880b151.chunk.js.map",
+    "index.html": "https://mihretupg.github.io/csb-f78hn/index.html",
+    "static/css/main.2c334147.chunk.css.map": "https://mihretupg.github.io/csb-f78hn/static/css/main.2c334147.chunk.css.map",
+    "static/js/2.b880b151.chunk.js.LICENSE.txt": "https://mihretupg.github.io/csb-f78hn/static/js/2.b880b151.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8d7e8d.js",
+    "static/js/2.b880b151.chunk.js",
+    "static/css/main.2c334147.chunk.css",
+    "static/js/main.74d40e0b.chunk.js"
+  ]
+}
